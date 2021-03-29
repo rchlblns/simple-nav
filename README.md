@@ -21,5 +21,5 @@ I chose to design the navigation menu in a horizontal pattern at the top of the 
 ## Next Steps
 The scope of this project is quite small as it is a coding challenge. In a bigger project, I would implement the following:
 
-1. Better responsiveness - I would likely create a hamburger menu with a vertical layout that's triggered by paticular screen sizes. 
-2. Cleaner transitions & more clear user feedback
+1. Better responsiveness - I would likely create a hamburger menu with a vertical layout that's triggered by mobile breakpoints. Additionally, would add media queries to ensure submenu stays flush to primary menu. 
+2. Cleaner transitions & even more clear user feedback

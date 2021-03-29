@@ -6,20 +6,17 @@
 nav {
     background-color: #eae7dc;
     width: 100vw;
-    border-bottom: 3px solid transparent;
     position: relative;
 }
 
 .subnav-content {
     display: none;
     position: absolute;
-    top: 59px;
+    top: 55px;
     left: 0;
     width: 100vw;
     z-index: 1;
-    justify-content: center;
     background-color: #F7F6F2;
-    border-bottom: 3px solid transparent;
 }
 
 .subnav-content a {
