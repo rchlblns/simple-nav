@@ -7,7 +7,7 @@ The challenge was to create a navigation menu without using any CSS frameworks. 
 ## Design Considerations
 I chose to design the navigation menu in a horizontal pattern at the top of the page. As a familiar pattern to users, it aligns with user expectation of where site navigation should be. In that same spirit, the second level menu was also designed in a horizontal layout for consistency. The main focus for the submenu design was minimal interaction cost and high discoverability. The inventory link features a visual indicator for users to quickly find the subnavigation menu and access it with a single click. Then, upon interaction, the subnav slides down revealing a horizontal layout that allows users to view all submenu links at once.  
 
-## Languages/Libaries Used
+## Languages/Libraries Used
 * HTML
 * CSS
 * Javascript
